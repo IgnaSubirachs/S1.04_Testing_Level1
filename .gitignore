@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 S1.04_Testing_Level1.iml
 .idea
+Ex.3.iml
 ### Eclipse ###
 .apt_generated
 .classpath
